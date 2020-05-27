@@ -314,7 +314,7 @@ nav ul li a {
   font-family: 'Roboto', serif;
   font-size: 50px;
   text-shadow: black;
-  font-weight: 600;
+  font-weight: 300;
   text-align: left;
 }
 
@@ -322,7 +322,7 @@ nav ul li a {
   max-width: 80%;
   margin-bottom: 0;
   text-align: left;
-  font-weight: 500;
+  font-weight: 200;
 }
 
 /*-----------------------------------------------------------------------------------*/
